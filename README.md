@@ -50,11 +50,18 @@ Esse código cria um dashboard interativo utilizando o **Dash** para exibir os d
 - **MQTT** para comunicação eficiente entre dispositivos.
 - **Dash & Plotly** para visualização gráfica dos dados.
 
+## 🔍 Visualização do Wokwi
+
+A seguir, apresentamos uma visualização interativa do Wokwi. Esse dashboard foi criado para monitorar dados em tempo real, permitindo uma análise precisa e intuitiva de variáveis críticas para o projeto. Ele combina gráficos dinâmicos com uma interface amigável para facilitar a tomada de decisões.
+
+![Dashboard Interativo](https://github.com/user-attachments/assets/5714383d-4e46-4897-945d-15c653979f14)
+
+
 ## 📊 Visualização do Dashboard
 
 Aqui está uma visualização do dashboard com gráficos de temperatura, umidade e luminosidade em tempo real:
 
-![Dashboard Interativo](caminho/para/sua/imagem-dashboard.png)
+![Dashboard Interativo](https://github.com/user-attachments/assets/a20c12bd-1c03-453b-a729-971a7622cd6f)
 
 ## 📢 Contribuições
 
@@ -62,6 +69,7 @@ Sinta-se à vontade para abrir issues, fazer pull requests ou sugerir melhorias!
 
 ## 👥 Equipe
 
-- **Gabriel Matias**: Coordenador do projeto, garantindo a aderência aos prazos e ao orçamento.
-- **Nathan Craveiro**: Desenvolvedor de design e interface do usuário, responsável pela experiência do usuário e integração com o backend.
-- **Vitor Eskes**: Desenvolvedor da lógica do servidor, gerenciamento da infraestrutura, automação de deploy e testes.
+- **Gabriel Matias**: [LinkedIn](https://www.linkedin.com/in/vitor-eskes-2727bb2b6/)
+- **Nathan Craveiro**: [LinkedIn](https://www.linkedin.com/in/nathan-amin-6900462b6/)
+- **Vitor Eskes**: [LinkedIn](https://www.linkedin.com/in/gabriel-matias-simoes-5a55562b7/)
+
