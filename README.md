@@ -1,4 +1,4 @@
-# 🍇Agnello Vinheria - Monitoramento Remoto de Vinhos🍷
+# 🍇Agnello Vinheria - Monitoramento Remoto de Vinhos
 
 Bem-vindo ao repositório de **Agnello Vinheria**! Este projeto realiza o monitoramento remoto das condições do ambiente em que os vinhos são armazenados, com foco em temperatura, umidade e luminosidade. Usamos um sistema baseado em **ESP32** com sensores **DHT22** e integração via **MQTT** para monitorar e exibir esses dados em um dashboard interativo. 🚀
 
